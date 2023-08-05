@@ -5,12 +5,16 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What tags are necessary for a complete HTML Skeleton?
+  HTML, title, head, and body tags are necessary for a complete HTML skeleton.
 
 - What type of content belongs within the `<head>` of an HTML document?
+  Titles belong within the <head> of an HTML document.
 
 - What type of content belongs within the `<body>` of an HTML document?
+  Headings and paragraphs are examples of content that belong within the <body> of an HTML document.
 
 - Where must the `DOCTYPE` declaration appear in a valid HTML document?
+  The DOCTYPE declaration must appear at the start of the valid HTML document.
 
 ## Notes
 
