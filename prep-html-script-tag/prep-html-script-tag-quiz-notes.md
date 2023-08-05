@@ -8,8 +8,10 @@ After completing this exercise, you should be able to discuss or answer the foll
   <script>
 
 - How do you use a script tag to write JavaScript directly in the HTML document?
+  Place the <script> tag in the <head> or <body> of the HTML document and write JavaScript code directly within the script tag or reference an external JavaScript file.
 
 - How do you use a script tag to load an external JavaScript file?
+  Refer to the external JavaScript file using the src attribute in a <script> tag.
 
 ## Notes
 
